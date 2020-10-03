@@ -1,5 +1,6 @@
 
 exports.min = function min (array) {
+  if (array == [] || )
   return 0;
 }
 
